@@ -1,0 +1,24 @@
+{
+  "name": "tech-test",
+  "version": "1.0.0",
+  "description": "Link Tasks 1-3 (Test Cases, Bug Reports, SQL Queries): https://docs.google.com/spreadsheets/d/16fugFLwBELn5S6bds7XM6QShG2pDu0Rx_3x-Cc5Ok8A/edit?gid=0#gid=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arfprojectone/tech-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arfprojectone/tech-test/issues"
+  },
+  "homepage": "https://github.com/arfprojectone/tech-test#readme",
+  "devDependencies": {
+    "cypress": "^14.3.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}

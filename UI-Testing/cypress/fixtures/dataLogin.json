@@ -1,0 +1,11 @@
+{
+    "validUser": {
+      "validEmail": "kandidat@paper.id",
+      "validPassword": "Jakarta123."
+    },
+    "negativeCase": {
+      "incorrectEmail": "invaliduser10@paper.id",
+      "invalidPassword": "invalidpassword",
+      "invalidEmailFormat": "invaliduser"
+    }
+  }
